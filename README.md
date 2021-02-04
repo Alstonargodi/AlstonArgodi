@@ -9,4 +9,4 @@ My Name I Wayan Alston Argodi
 
 :wrench: My tool android studio | Visual Studio Code | Pycharm | IntelliJ IDEA
 
-:book: Language C/C++ | JAVA | KOTLIN | PHYTON
+:book: Language C/C++ | Java | Kotlin | Phyton
