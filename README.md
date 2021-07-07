@@ -1,11 +1,8 @@
 ## Hi There !  :wave:
 
-This my short bio  
-
-My Name I Wayan Alston Argodi
+Hi Folks, I'm alston
  
-
- :beginner: Currently, I still studying in computer science and I interested in mobile developer
+:beginner: Currently, I still studying in computer science and I interested in mobile developer
 
 :wrench: My tool android studio | Visual Studio Code | Pycharm | IntelliJ IDEA
 
