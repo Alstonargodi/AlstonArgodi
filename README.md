@@ -14,8 +14,25 @@ My tool android studio | Visual Studio Code | Pycharm | IntelliJ IDEA
 
 :book: Language 
 
-C/C++ | Java | Kotlin | Phyton
+My programming what i'm used
 
+- C++ 
+  
+  For college course when is need
+
+- Java 
+  
+  My First progrmming language for android development 
+  
+  
+- Kotlin
+
+  Currently i'm using this for making android apps and maybe later
+  i will try compose too for desktop
+  
+- Phyton
+
+  My second programming language for college porpuse.usually for easier making statistic and machine learning task
 
 
 
