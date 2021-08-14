@@ -25,7 +25,7 @@ My programming what i'm used
   My First progrmming language for android development 
   
   
-- Kotlin
+- Kotlin <i class="programming lang-kotlyn"></i>
 
   Currently i'm using this for making android apps and maybe later
   i will try compose too for desktop
