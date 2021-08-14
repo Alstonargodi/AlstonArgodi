@@ -4,7 +4,7 @@ Guten Tag !, I'm Alston
 
 :beginner: 
 
-Currently, I still studying in computer science and I interested in mobile developer
+Currently, I'm still studying in computer science and interested in mobile developemnt
 
 
 :wrench: 
