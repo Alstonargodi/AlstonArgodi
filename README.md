@@ -11,6 +11,7 @@ Hi Folks, I'm alston
 [![ton stats](https://github-readme-stats.vercel.app/api?username=AlstonArgodi)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![ton stats](https://github-readme-stats.vercel.app/api?username=AlstonArgodi)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ton](https://activity-graph.herokuapp.com/graph?username=AlstonArgodi)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
