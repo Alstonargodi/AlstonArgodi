@@ -1,12 +1,23 @@
 ## Hi There !  :wave:
 
-Hi Folks, I'm alston
- 
-:beginner: Currently, I still studying in computer science and I interested in mobile developer
+Guten Tag !, I'm Alston 
 
-:wrench: My tool android studio | Visual Studio Code | Pycharm | IntelliJ IDEA
+:beginner: 
 
-:book: Language C/C++ | Java | Kotlin | Phyton
+Currently, I still studying in computer science and I interested in mobile developer
+
+
+:wrench: 
+
+My tool android studio | Visual Studio Code | Pycharm | IntelliJ IDEA
+
+
+:book: Language 
+
+C/C++ | Java | Kotlin | Phyton
+
+
+
 
 [![ton stats](https://github-readme-stats.vercel.app/api?username=AlstonArgodi)](https://github.com/anuraghazra/github-readme-stats)
 
