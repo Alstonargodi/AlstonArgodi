@@ -2,16 +2,16 @@
 ## Hi there, I'm Alston.👋                                                  
 
 ### I'm a computer science student
-- 🔭 I'm currently working on my android apps project and college project
-- 🎯 Goals: Contribute more and deploy my apps to play store.
-- 😄 Fun fact: Playing games and photography.
+- ✍ I'm currently working on my kotlin project and college project
+- 👀 I'm also intrested with jetpack compose
+- 🎯 Contribute more and deploy my apps to play store.
+- 😄 playing games and photography.
 
 ### Connect with me in:
 
 
 [<img align="center" alt="alstonargodi | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
 
 ### Languages :
 <p align="center">
@@ -20,9 +20,6 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>&nbsp;&nbsp;
 </p>
-
-<br />
-<br />
 
 ### Tools :
 
@@ -35,7 +32,7 @@
 
 
 <br />
-<br />
+
 
 
 ---
