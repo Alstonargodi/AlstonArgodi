@@ -14,6 +14,9 @@
 
 
 ### Languages :
+
+Programming language that I choose and learn it
+
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -22,6 +25,8 @@
 </p>
 
 ### Tools :
+
+Tools that help me for study
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&color=black&labelColor=gray" />&nbsp;&nbsp;&nbsp;
