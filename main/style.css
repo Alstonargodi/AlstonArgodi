@@ -1,0 +1,329 @@
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-20px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}
+
+@keyframes blink{
+  0%{
+    opacity: 1;
+  }
+  40%{
+    opacity: 1;
+  }
+  60%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 0;
+  }
+}
+
+/* effect float */
+#aboutme {
+	animation: float 10s ease-in-out infinite;
+}
+
+  
+#particles-js{
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: -100;
+}
+
+/* ---- particles.js container ---- */
+.js-count-particles{
+    position: relative;
+    font-size: 1.1em;
+  }
+  
+  #stats,
+  .count-particles{
+    -webkit-user-select: none;
+  }
+  
+  #stats{
+    border-radius: 3px 3px 0 0;
+    overflow: hidden;
+  }
+  
+  .count-particles{
+    border-radius: 0 0 3px 3px;
+  }
+
+
+/* opening */
+.typing-container{
+  font-size: 5ch;
+  margin-top: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+#feature-text{
+  margin-left: 8dp;
+}
+
+.input-cursor{
+  display: inline-block;
+  width: 2px;
+  height: 50px;
+  background-color: white;
+  margin-left: 8px;
+  animation : blink .5s linear infinite alternate;
+}
+
+/* about me*/
+
+/* language */
+#lang {
+  margin-bottom: 600px;
+	animation: float 10s ease-in-out infinite;
+}
+
+#cardlangone{
+
+  width: 200px;  
+  background: #9CDEEC;
+  box-shadow: 0px 4px 4px rgba(180, 178, 178, 0.45);
+  border-radius: 24px;
+}
+
+#cardlangtwo{
+  margin: 0 auto; 
+  float: none; 
+  margin-bottom: 20px;
+
+
+  width: 200px;   
+  background: #E99074;
+  box-shadow: 0px 4px 4px rgba(180, 178, 178, 0.45);
+  border-radius: 24px;  
+}
+
+/* education */
+#edusatu{
+  background: #F1DAD3;
+  box-shadow: 0px 4px 4px rgba(180, 178, 178, 0.45);
+  border-radius: 24px;
+}
+
+#edutahunsatu{
+  width: 339px;
+  background: #EC8E66;
+  box-shadow: 0px 4px 4px rgba(180, 178, 178, 0.45);
+  border-radius: 24px;
+}
+
+#edudua{
+  background: #D3F1D4;
+  box-shadow: 0px 4px 4px rgba(180, 178, 178, 0.45);
+  border-radius: 24px;
+}
+
+#edutahundua{
+  background: #ECFFB6;
+  box-shadow: 0px 4px 4px rgba(180, 178, 178, 0.45);
+  border-radius: 24px;
+}
+
+/* tech */
+#containskill{
+  overflow-x: auto;
+}
+
+#skillcontone{
+  background: #ffffff7c;
+  box-shadow: 3px 4px 4px 3px #4ae991;
+  border-radius: 24px;
+}
+
+#skillcontone:hover {
+  box-shadow: 2px 4px 4px 2px #e0e4e2;
+}
+
+#skilltitleone{
+  width: 339px;
+  border-radius: 24px;
+}
+
+#skillconttwo{
+  background: #ffffff;
+  box-shadow: 3px 4px 4px 3px #f6de27;
+  border-radius: 24px;
+}
+
+#skillconttwo:hover{
+  box-shadow: 2px 4px 4px 2px #e0e4e2;
+}
+
+#skilltitletwo{
+  width: 339px;
+  border-radius: 24px;
+}
+
+#skillcontthree{
+  background: #ffffff;
+  box-shadow: 3px 4px 4px 3px #5985d8;
+  border-radius: 24px;
+}
+#skillcontthree:hover{
+  box-shadow: 2px 4px 4px 2px #e0e4e2;
+}
+
+#skilltitlethree{
+  width: 339px;
+
+  border-radius: 24px;
+}
+
+/* portofolio */
+/* android */
+#card {
+  position: relative;
+  perspective: 1000px;
+  
+}
+
+#content {
+  display: grid;
+  position: relative;
+  transition: transform 1s;
+  transform-style: preserve-3d;
+}
+
+#card:hover #content {
+  transform: rotateY( 180deg ) ;
+  transition: transform 0.5s;
+}
+
+#front,#back{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  backface-visibility: hidden;
+}
+
+#front{
+  box-shadow: 1px 1px 1px 1px #4ae991;
+  border-radius: 24px;
+  background: rgb(255, 255, 255);
+  color: #03446A;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#back {
+  height: 20px;
+  margin-top: 0px;
+  background: rgb(255, 255, 255);
+  color: #03446A;
+  text-align: center;
+  border-radius: 5px;
+  transform: rotateY( 180deg );
+}
+
+/* web */
+#cardweb {
+  position: relative;
+  perspective: 1000px;
+  
+}
+
+#contentweb {
+  display: grid;
+  position: relative;
+  transition: transform 1s;
+  transform-style: preserve-3d;
+}
+
+#cardweb:hover #contentweb {
+  transform: rotateY( 180deg ) ;
+  transition: transform 0.5s;
+}
+
+#frontweb,#backweb{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  backface-visibility: hidden;
+}
+
+#frontweb{
+  box-shadow: 1px 1px 1px 1px #f6de27;
+  border-radius: 24px;
+  background: rgb(255, 255, 255);
+  color: #03446A;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#backweb {
+  height: 20px;
+  margin-top: 0px;
+  background: rgb(255, 255, 255);
+  color: #03446A;
+  text-align: center;
+  border-radius: 5px;
+  transform: rotateY( 180deg );
+}
+
+/* team */
+#cardteam {
+  position: relative;
+  perspective: 1000px;
+  
+}
+
+#contentteam {
+  display: grid;
+  position: relative;
+  transition: transform 1s;
+  transform-style: preserve-3d;
+}
+
+#cardteam:hover #contentteam {
+  transform: rotateY( 180deg ) ;
+  transition: transform 0.5s;
+}
+
+#frontteam,#backteam{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  backface-visibility: hidden;
+}
+
+#frontteam{
+  border-radius: 24px;
+  background: rgb(255, 255, 255);
+  color: #03446A;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#backteam {
+  height: 20px;
+  margin-top: 0px;
+  background: rgb(255, 255, 255);
+  color: #03446A;
+  text-align: center;
+  border-radius: 5px;
+  transform: rotateY( 180deg );
+}
+
+
+#content{
+  padding: 50px;
+  padding-top: 0px;
+
+  transition: all 0.3s;
+}
