@@ -3,13 +3,13 @@
                                       
 ✍ I'm currently working on
 
- - [ ] Pokedex
-A pokemon wiki app to look up pokemon characters and compare both characters 
- - [ ] Asta
-Farmer assistant that can help manage farm and farmer inventory
- - [ ] Rogerbot
- Discord Bot written in kotlin and can manage a server
-
+ - Pokedex
+A pokemon wiki app to look up pokemon characters and compare both characters  
+ - Asta
+ Farmer assistant that can help manage farm and farmer inventory
+ - Rogerbot
+ Discord Bot written in kotlin and can manage a server 
+ 
 👀 I'm intrested in Jetpack Compose and Cross-platform development
 
 🎯 Contribute more in open-source world and deploy my apps to play store.
