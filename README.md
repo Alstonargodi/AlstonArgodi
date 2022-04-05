@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Alston.👋            
                                       
-👀 I'm intrested in Jetpack Compose and Cross-platform development
+👀 I'm interested mobile development currently I still in android native development
 
 🎯 I Want Contribute more in open-source world and deploy my apps to play store.
 
