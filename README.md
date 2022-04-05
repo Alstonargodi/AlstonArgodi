@@ -3,7 +3,9 @@
                                       
 👀 I'm interested mobile development, currently I still in android native development
 
-🎯 I Want Contribute more in open-source world and deploy my apps to play store.
+🎯 I Want contribute more in open-source world
+
+🤝 Connect with me on my twitter
 
 
 ### Programming Language 
