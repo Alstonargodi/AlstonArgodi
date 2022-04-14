@@ -5,7 +5,7 @@
 
 🎯 Contribute more in open-source world
 
-🔥 I also like to challenge myself in [hackerrank](https://www.hackerrank.com/alstonargodi01)
+🔥 I also like to challenge myself in [HackerRank](https://www.hackerrank.com/alstonargodi01)
 
 🤝 Connect with me on my twitter
 
