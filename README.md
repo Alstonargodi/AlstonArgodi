@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Alston.👋            
                                       
-👀 I'm interested in about mobile development, currently I am still in android native development
+👀 I'm interested in about mobile development, currently I'm still in android native development
 
 🎯 I want to Contribute more to an open-source world
 
