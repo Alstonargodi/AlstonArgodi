@@ -1,13 +1,13 @@
 
 ## Hi there, I'm Alston.👋            
                                       
-👀 I'm interested in mobile development, currently I am still in android native development
+👀 I'm interested in about mobile development, currently I am still in android native development
 
-🎯 Contribute more in open-source world
+🎯 I want to Contribute more to an open-source world
 
-🔥 I also like to challenge myself in [HackerRank](https://www.hackerrank.com/alstonargodi01)
+🔥 Besides that I also like to challenge myself in [HackerRank](https://www.hackerrank.com/alstonargodi01)
 
-🤝 Connect with me on my [Twitter](https://twitter.com/ArgodiI)
+🤝 Want know more ? Connect with me on my [Twitter](https://twitter.com/ArgodiI)
 
 
 ## Programming Language 
