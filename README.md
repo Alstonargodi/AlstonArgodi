@@ -1,15 +1,18 @@
 
-## Hi there, I'm Alston.👋            
+## Hi there, I'm I Wayan Alston.👋            
                             
-Le batata
+Aka Batata
 
-👀 I'm interested in about mobile development, currently I'm still in android native development
+👀 I'm interested in mobile development, currently I'm still in android native development
 
 🎯 I want to Contribute more to an open-source world
 
 🔥 Besides that I also like to challenge myself in [HackerRank](https://www.hackerrank.com/alstonargodi01)
 
-🤝 Want know more ? Connect with me on my [Twitter](https://twitter.com/ArgodiI)
+🤝 Want to know more ? Connect with me on my [Twitter](https://twitter.com/ArgodiI)
+
+📝 Sometimes I write a short story when I'm bored, I'm pouring my boredom into  [Medium](https://medium.com/@alstonargodi)
+
 
 
 ## Programming Language 
