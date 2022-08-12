@@ -1,19 +1,23 @@
 
-## Hi there, It's me I Wayan Alston.👋            
+# Hi there 👋 , It's me I Wayan Alston.            
                             
 Aka Batata
 
-👀 I'm interested in mobile development, currently I'm still in android native development
+## About Me 👀 
 
-🎯 I want to Contribute more to an open-source world
+I am a 3-year Informatics Engineering Student, I have done some Android application project mostly are my personal project
+I used Kotlin as a main programming language for development and yeah is native development, also I have interested to learn
+about cross-platform development using flutter (currently I'm still learning about this). Besides mobile development I have interested
+to learn web development I'm making some personal projects using js and tailwind CSS, also machine learning that I already implemented in my 
+android project yet I need to learn more about this.
 
-🔥 Besides that I also like to challenge myself in [HackerRank](https://www.hackerrank.com/alstonargodi01)
+## Target 🎯
 
-🤝 Want to know more ? Connect with me on my [Twitter](https://twitter.com/ArgodiI)
+Contribute more to an open-source world and also i'm looking for internship to improve more about my android development skill.
 
-📝 Sometimes I write a short story when I'm bored, I'm pouring my boredom into  [Medium](https://medium.com/@alstonargodi)
+## Others 📝 
 
-
+Besides that I also like to challenge myself in [HackerRank](https://www.hackerrank.com/alstonargodi01) and if you want to know more ? Connect with me on my [Twitter](https://twitter.com/ArgodiI),sometimes I write a short story when I'm bored or tired, I'm pouring my boredom into [Medium](https://medium.com/@alstonargodi)
 
 ## Programming Language 
 
@@ -23,7 +27,7 @@ Aka Batata
 
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>&nbsp;&nbsp;<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />&nbsp;&nbsp;<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
                                                                                                                          
-          
+     
 <br />
 
 ---
