@@ -1,15 +1,11 @@
 
-# Hi there 👋 , It's me I Wayan Alston.            
+# Hi  👋 , It's me I Wayan Alston Argodi.            
                             
 Aka Batata
 
 ## About Me 👀 
 
-I am a 3-year Informatics Engineering Student, I have done some Android application project mostly are my personal project
-I used Kotlin as a main programming language for development and yeah is native development, also I have interested to learn
-about cross-platform development using flutter (currently I'm still learning about this). Besides mobile development I have interested
-to learn web development I'm making some personal projects using js and tailwind CSS, also machine learning that I already implemented in my 
-android project yet I need to learn more about this.
+I am a 3-year Informatics Engineering Student, i have done some Android application projects mostly my personal project I used Kotlin as a main programming language for development and yeah is native development, also I have interested to learn about cross-platform development using flutter (currently I'm still learning about this). Besides mobile development I have interested to learn web development I'm making some personal projects using js and tailwind CSS, also machine learning that I have implemented in my android project yet I need to learn more about this.
 
 ## Target 🎯
 
