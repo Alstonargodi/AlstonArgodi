@@ -1,5 +1,5 @@
 
-## Hi there, I'm I Wayan Alston.👋            
+## Hi there, It's me I Wayan Alston.👋            
                             
 Aka Batata
 
