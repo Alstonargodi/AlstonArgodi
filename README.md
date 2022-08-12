@@ -7,9 +7,20 @@ Aka Batata
 
 I am a 3-year Informatics Engineering Student, i have done some Android application projects mostly my personal project I used Kotlin as a main programming language for development and yeah is native development, also I have interested to learn about cross-platform development using flutter (currently I'm still learning about this). Besides mobile development I have interested to learn web development I'm making some personal projects using js and tailwind CSS, also machine learning that I have implemented in my android project yet I need to learn more about this.
 
+Some my projects :
+
+Android 
+- [Rice Farming Assistant](https://github.com/Alstonargodi/Rifsa-apps)
+- [Cerita](https://github.com/Alstonargodi/Cerita)
+- [Plan](https://github.com/Alstonargodi/Plan)
+- [Pokedex](https://github.com/Alstonargodi/Pokedex)
+
+Machine Learning [ College ]
+- [Pepak](https://github.com/Alstonargodi/Pepak)
+
 ## Target 🎯
 
-Contribute more to an open-source world and also i'm looking for internship to improve more about my android development skill.
+Contribute more to an open-source world and also i'm looking for internship to learn more about software enginerring, also you can react me on my [Email](mailto:alstonargodi01@gmail.com).
 
 ## Others 📝 
 
