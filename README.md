@@ -10,16 +10,13 @@ I am a 3-year Informatics Engineering Student, i have done some Android applicat
 Some my projects :
 
 Android 
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=RIFSA&repo=Rifsa-Mobile&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=100F0F)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Alstonargodi&repo=Cerita&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=100F0F)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Alstonargodi&repo=Plan&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=100F0F)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Alstonargodi&repo=Pokedex&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=100F0F)
+- [Rice Farming Assistant](https://github.com/Alstonargodi/Rifsa-apps)
+- [Cerita](https://github.com/Alstonargodi/Cerita)
+- [Plan](https://github.com/Alstonargodi/Plan)
+- [Pokedex](https://github.com/Alstonargodi/Pokedex)
 
 Machine Learning [ College ]
 - [Pepak](https://github.com/Alstonargodi/Pepak)
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Alstonargodi&repo=Pepak&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=100F0F)
 
 ## Target 🎯
 
