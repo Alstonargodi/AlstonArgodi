@@ -39,6 +39,7 @@ Besides that I also like to challenge myself in [HackerRank](https://www.hackerr
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alstonargodi&show_icons=true&hide_border=true)](https://github.com/Alstonargodi)
 
 ![](https://komarev.com/ghpvc/?username=rogerboto&color=blue)
 
