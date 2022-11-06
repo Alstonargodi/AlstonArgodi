@@ -27,7 +27,7 @@ Contribute more to an open-source world and also i'm looking for internship to l
 
 ## Others 📝 
 
-Besides that I also like to challenge myself in [HackerRank](https://www.hackerrank.com/alstonargodi01) and if you want to know more ? Connect with me on my [Twitter](https://twitter.com/ArgodiI),sometimes I write a short story when I'm bored or tired, I'm pouring my boredom into [Medium](https://medium.com/@alstonargodi)
+Besides that I also like to challenge myself in [HackerRank](https://www.hackerrank.com/alstonargodi01) and if you want to know me more ? please connect with me on  [Twitter](https://twitter.com/ArgodiI),sometimes I write a short story when I'm bored or tired, I'm pouring my boredom into [Medium](https://medium.com/@alstonargodi)
 
 ## Main ⚙️
 
