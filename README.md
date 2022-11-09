@@ -23,7 +23,7 @@ Machine Learning [ College ]
 
 ## Target 🎯
 
-Contribute more to an open-source world and also i'm looking for internship to learn more about software enginerring, also you can react me on my [Email](mailto:alstonargodi01@gmail.com).
+Contribute more to an open-source world and also i'm looking for internship to learn more about software enginerring, also you can reach me on my [Email](mailto:alstonargodi01@gmail.com).
 
 ## Others 📝 
 
