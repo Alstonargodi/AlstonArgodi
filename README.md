@@ -16,7 +16,6 @@ Android Applications
 - [Rice Farming Assistant](https://github.com/Alstonargodi/Rifsa-apps)
 - [Cerita](https://github.com/Alstonargodi/Cerita)
 - [Plan](https://github.com/Alstonargodi/Plan)
-- [Pokedex](https://github.com/Alstonargodi/Pokedex)
 
 Machine Learning [ College ]
 - [Pepak](https://github.com/Alstonargodi/Pepak)
