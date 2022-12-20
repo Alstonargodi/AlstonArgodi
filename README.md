@@ -1,5 +1,3 @@
-
-
 # Hi 👋 , It's me I Wayan Alston.         
                             
 Aka Batata
@@ -12,7 +10,7 @@ I am a 3-year Informatics Engineering Student,
 
 Some of my projects :
 
-Android Applications
+Android Apps
 - [Rice Farming Assistant](https://github.com/Alstonargodi/Rifsa-apps)
 - [Cerita](https://github.com/Alstonargodi/Cerita)
 - [Plan](https://github.com/Alstonargodi/Plan)
