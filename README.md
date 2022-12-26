@@ -15,8 +15,9 @@ Android Apps
 - [Cerita](https://github.com/Alstonargodi/Cerita)
 - [Plan](https://github.com/Alstonargodi/Plan)
 
-Machine Learning [ College ]
+College / for fun
 - [Pepak](https://github.com/Alstonargodi/Pepak)
+- [Sign](https://github.com/Alstonargodi/Sign)
 
 ## Target 🎯
 
