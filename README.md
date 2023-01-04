@@ -8,16 +8,17 @@ I am a 3-year Informatics Engineering Student,
 -  👨‍💻 I have done some  application projects mostly my personal and college project 
 -  👀 Interested to learn about cross-platform  and  web development 
 
-Some of my projects :
+Some of my :
 
-Android Apps
+personal projects
 - [Rice Farming Assistant](https://github.com/Alstonargodi/Rifsa-apps)
 - [Cerita](https://github.com/Alstonargodi/Cerita)
 - [Plan](https://github.com/Alstonargodi/Plan)
 
-College / for fun
+college projects
 - [Pepak](https://github.com/Alstonargodi/Pepak)
 - [Sign](https://github.com/Alstonargodi/Sign)
+- [Pesticide Recommendations]([https://github.com/Alstonargodi/Sign](https://github.com/Alstonargodi/Pesticide-Recommendations))
 
 ## Target 🎯
 
