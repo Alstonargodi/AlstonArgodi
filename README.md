@@ -1,6 +1,5 @@
-# Hi 👋 , It's me Alston.         
+# Hi 👋        
                             
-Aka Batata
 
 ## About Me 👀 
 
