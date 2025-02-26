@@ -1,8 +1,3 @@
-## About Me 👀 
-
-- 👨‍💻 Passionate software developer with experience in building applications for personal and academic projects.
-- 🌱 Currently exploring cross-platform and web development to enhance my skill set.
-
 ### Personal Projects
 - **[Rice Farming Assistant](https://github.com/Alstonargodi/Rifsa-apps)**: A mobile app designed to assist farmers with crop management.
 - **[Cerita](https://github.com/Alstonargodi/Cerita)**: A storytelling platform that allows users to share and read stories.
